@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pminterni.PMInterni" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.pminternitest.pminternitest" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>P.M. Interni</name>
     <description>
         Questa applicazione ti permette di portare sempre con te, sul tuo iPhone o iPad, il catalogo 
@@ -9,12 +9,6 @@ divani, etc.) o con la ricerca testuale libera. Sfoglia le migliori marche di de
 internazionale proposte da PM Interni. 
 Tieniti aggiornato con tutte le novità presentate alle fiere di settore nell'apposita sezione 
 Novità.
-All'interno delle schede prodotto trova tutti i dettagli utili per orientarti nella tua scelta: 
-nome e descrizione del prodotto, misure, materiali e caratteristiche. Con la gallery guarda il 
-prodotto d'arredo da te selezionato nei minimi dettagli.
-Scopri su quali prodotti PM Interni ha riservato per te una speciale promozione nella apposita 
-sezione Occasioni. Cogli al volo l'opportunità utilizzando il contatto diretto (mail o telefono) 
-con PM Interni o raggiungilo direttamente guidato dal tuo GPS.
     </description>
     <author email="id18430@gmail.com" href="http://www.pminterni.com">
         P.M. Interni
