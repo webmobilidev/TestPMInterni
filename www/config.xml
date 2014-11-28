@@ -18,15 +18,12 @@ Novità.
     <gap:plugin name="org.apache.cordova.device" />
 	<gap:plugin name="org.apache.cordova.network-information" />
 	<gap:plugin name="org.apache.cordova.inappbrowser" />
-	<gap:plugin name="com.phonegap.plugins.pushplugin" />
+	<gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0"/>
 	<gap:plugin name="org.apache.cordova.core.vibration" />
 	<gap:plugin name="org.apache.cordova.core.dialogs" />
 	<!-- <gap:plugin name="org.apache.cordova.media" /> -->
 	<preference name="showmessageinnotification" value="true" />
 	
-	<feature name="PushPlugin" >
-		<param name="android-package" value="com.amazon.cordova.plugin.PushPlugin"/>
-	</feature>
 	
 	<feature name="PushPlugin">
 		<param name="ios-package" value="PushPlugin" />
